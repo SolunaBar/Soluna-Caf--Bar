@@ -42,10 +42,6 @@ const Menu = () => {
       { name: t('menu.infusionpremium'), description: t('menu.infusionpremium.desc'), price: '1.50€' },
     ],
     tapas: [
-      { name: t('menu.tapa1'), description: t('menu.tapa1.desc'), price: '€6.50' },
-      { name: t('menu.tapa2'), description: t('menu.tapa2.desc'), price: '€7.00' },
-      { name: t('menu.tapa3'), description: t('menu.tapa3.desc'), price: '€8.50' },
-      { name: t('menu.tapa4'), description: t('menu.tapa4.desc'), price: '€6.00' },
       { name: t('menu.tapa5'), description: t('menu.tapa5.desc'), price: '5€' },
       { name: t('menu.tapa6'), description: t('menu.tapa6.desc'), price: '6€' },
       { name: t('menu.tapa7'), description: t('menu.tapa7.desc'), price: '14€' },

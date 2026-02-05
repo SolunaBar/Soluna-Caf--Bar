@@ -128,14 +128,6 @@ export const LanguageProvider = ({ children }: LanguageProviderProps) => {
       'menu.infusionpremium.desc': '',
       
       // Tapas
-      'menu.tapa1': 'Jamón Ibérico',
-      'menu.tapa1.desc': 'Jamón ibérico de bellota cortado a mano',
-      'menu.tapa2': 'Queso Manchego',
-      'menu.tapa2.desc': 'Queso manchego curado con miel',
-      'menu.tapa3': 'Croquetas Caseras',
-      'menu.tapa3.desc': 'Croquetas de jamón serrano y bechamel',
-      'menu.tapa4': 'Patatas Bravas',
-      'menu.tapa4.desc': 'Patatas fritas con salsa brava y alioli',
       'menu.tapa5': 'Patatas Trufadas',
       'menu.tapa5.desc': 'Crujientes patatas fritas coronadas con crema de queso trufado, parmesano rallado y un toque de perejil fresco.',
       'menu.tapa6': 'Croquetas del Día',
@@ -357,14 +349,6 @@ export const LanguageProvider = ({ children }: LanguageProviderProps) => {
       'menu.infusionpremium.desc': '',
       
       // Tapas
-      'menu.tapa1': 'Iberian Ham',
-      'menu.tapa1.desc': 'Acorn-fed Iberian ham hand-sliced',
-      'menu.tapa2': 'Manchego Cheese',
-      'menu.tapa2.desc': 'Cured manchego cheese with honey',
-      'menu.tapa3': 'Homemade Croquettes',
-      'menu.tapa3.desc': 'Serrano ham croquettes with bechamel',
-      'menu.tapa4': 'Patatas Bravas',
-      'menu.tapa4.desc': 'Fried potatoes with brava sauce and alioli',
       'menu.tapa5': 'Truffle Fries',
       'menu.tapa5.desc': 'Crispy golden fries drizzled with truffle cream cheese, freshly grated Parmesan, and a sprinkle of parsley.',
       'menu.tapa6': 'Croquettes of the Day',
